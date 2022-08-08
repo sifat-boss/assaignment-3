@@ -8,3 +8,7 @@
 .fixed-top .container a {
     font-family: 'Poppins', sans-serif;
 }
+
+.marginTop {
+    margin-top: 100px;
+}
